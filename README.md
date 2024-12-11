@@ -1,6 +1,6 @@
 # Machine Learning Projects 
 
-Welcome to my **Machine Learning Projects **!  
+Welcome to my Machine Learning Projects !  
 This repository contains a collection of machine learning projects that I have developed to learn, practice, and demonstrate various machine learning techniques. Each project focuses on a unique problem and provides a detailed implementation.
 
 ---
